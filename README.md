@@ -25,7 +25,7 @@
 ## Let's connect.
 <p align="center">
     <a href="https://twitter.com/sumanabhi_" alt="Twitter"><img src="https://img.shields.io/twitter/follow/sumanabhi_?style=social"></a>
-    <a href="https://www.linkedin.com/in/sumanabhi/" alt="Linkedin"><img src="https://img.shields.io/badge/-sumanabhinav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumanabhinav/"></a>
+    <a href="https://www.linkedin.com/in/sumanabhinav/" alt="Linkedin"><img src="https://img.shields.io/badge/-sumanabhinav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumanabhinav/"></a>
     <a href="https://github.com/sumanabhi/" alt="Github"><img src="https://img.shields.io/github/followers/sumanabhi?label=follow&style=social"></a>
 </p>
 

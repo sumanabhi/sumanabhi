@@ -1,4 +1,5 @@
-### Hi 👋, I'm [Abhinav Suman](https://www.linkedin.com/in/sumanabhinav/)
+## Hi 👋, I'm [Abhinav Suman](https://www.linkedin.com/in/sumanabhinav/) 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sumanabhi&label=Profile%20views&color=0e75b6&style=flat" alt="sumanabhi" /> </p>
 
 - 🧑‍💻 Working as **Senior Software Developer - Mobile** at **[Tringapps Inc](https://www.tringapps.com/)**
 - 🔭 I’m currently working on [Migration from Kotlin-android-extension to viewBinding](https://github.com/streetcomplete/StreetComplete/pull/2894)

@@ -2,7 +2,8 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sumanabhi&label=Profile%20views&color=0e75b6&style=flat" alt="sumanabhi" /> </p>
 
 - 🧑‍💻 Working as **Senior Software Developer - Mobile** at **[Tringapps Inc](https://www.tringapps.com/)**
-- 🔭 I’m currently working on [Migration from Kotlin-android-extension to viewBinding](https://github.com/streetcomplete/StreetComplete/pull/2894)
+- 🔭 I'm looking to contribute to Hactoberfest 2021 for the first time. [Let's see here](https://hacktoberfest.digitalocean.com/profile) how well I can do 
+- ✅ PR merged Successfully for [Migration from Kotlin-android-extension to viewBinding](https://github.com/streetcomplete/StreetComplete/pull/2894)
 - 🌱 I’m currently learning **Everything ⚡**
 - 👯 I’m looking to collaborate on Android & Flutter Open Source Contribution
 - 🤔 I’m looking for help with [Github Actions](https://docs.github.com/en/actions)

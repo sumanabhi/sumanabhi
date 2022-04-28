@@ -1,4 +1,4 @@
-## Hi 👋, I'm [Abhinav Suman](https://www.linkedin.com/in/sumanabhinav/) 
+## Hi 👋, I'm [Abhinav Suman](https://www.linkedin.com/in/abhinav-suman/) 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sumanabhi&label=Profile%20views&color=0e75b6&style=flat" alt="sumanabhi" /> </p>
 
 - 🧑‍💻 Working as **SDE-2 (Android)** at **[Koo App](https://www.kooapp.com/)**

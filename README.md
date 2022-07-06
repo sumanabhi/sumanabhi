@@ -6,8 +6,8 @@
 - 🤔 I’m looking for help with [Github Actions](https://docs.github.com/en/actions)
 - ⚒️ Trying out the [Android Jetpack Compose](https://developer.android.com/jetpack/androidx/releases/compose) & [DataStore](https://developer.android.com/topic/libraries/architecture/datastore).
 - ⚛️ Looking for tutorial of **Atomic Design Pattern**
-- 📫 How to reach me: [Twitter - @sumanabhi_](https://twitter.com/sumanabhi_) **&amp;** [LinkedIn - sumanabhinav](https://www.linkedin.com/in/sumanabhinav/)
-- 😄 Pronouns: He/His
+- 📫 How to reach me: [Twitter - @sumanabhi_](https://twitter.com/sumanabhi_) **&amp;** [LinkedIn - sumanabhinav](https://www.linkedin.com/in/abhinav-suman/)
+- 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: Apart from this, I spent some time on Photogrpahy, you can pay a visit [Instagram - @animus_lens](https://www.instagram.com/animus_lens/) 
 
 #### **Languages and Tools:**  
@@ -19,7 +19,7 @@
 <div align="center">
 Let's Connect
 <p align="center">
-    <a href="https://twitter.com/sumanabhi_" alt="Twitter"><img src="https://img.shields.io/twitter/follow/sumanabhi_?style=social"></a>  <a href="https://www.linkedin.com/in/sumanabhinav/" alt="Linkedin"><img src="https://img.shields.io/badge/-sumanabhinav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumanabhinav/"></a>  <a href="https://github.com/sumanabhi/" alt="Github"><img src="https://img.shields.io/github/followers/sumanabhi?label=follow&style=social"></a>
+    <a href="https://twitter.com/sumanabhi_" alt="Twitter"><img src="https://img.shields.io/twitter/follow/sumanabhi_?style=social"></a>  <a href="https://www.linkedin.com/in/sumanabhinav/" alt="Linkedin"><img src="https://img.shields.io/badge/-sumanabhinav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinav-suman/"></a>  <a href="https://github.com/sumanabhi/" alt="Github"><img src="https://img.shields.io/github/followers/sumanabhi?label=follow&style=social"></a>
 </p>
 </div>
 

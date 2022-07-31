@@ -10,16 +10,22 @@
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: Apart from this, I spent some time on Photogrpahy, you can pay a visit [Instagram - @animus_lens](https://www.instagram.com/animus_lens/) 
 
-#### **Languages and Tools:**  
+#### 🛠 **Languages and Tools:**  
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code> 
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code> 
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> 
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/ae48d1ca3274c0c3a90f872e605eaef069a16771/topics/jetpack-compose/jetpack-compose.png"></code>  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumanabhi&theme=highcontrast)](https://git.io/streak-stats)
 
 <div align="center">
-Let's Connect
+Connect with me 
 <p align="center">
-    <a href="https://twitter.com/sumanabhi_" alt="Twitter"><img src="https://img.shields.io/twitter/follow/sumanabhi_?style=social"></a>  <a href="https://www.linkedin.com/in/abhinav-suman/" alt="Linkedin"><img src="https://img.shields.io/badge/-sumanabhinav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinav-suman/"></a>  <a href="https://github.com/sumanabhi/" alt="Github"><img src="https://img.shields.io/github/followers/sumanabhi?label=follow&style=social"></a>
+    <a href="https://twitter.com/sumanabhi_" alt="Twitter"><img src="https://img.shields.io/twitter/follow/sumanabhi_?style=social"></a>   
+    <a href="https://www.linkedin.com/in/abhinav-suman/" alt="Linkedin"><img src="https://img.shields.io/badge/-sumanabhinav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinav-suman/"></a>   
+    <a href="https://github.com/sumanabhi/" alt="Github"><img src="https://img.shields.io/github/followers/sumanabhi?label=follow&style=social"></a>  
 </p>
 </div>
 

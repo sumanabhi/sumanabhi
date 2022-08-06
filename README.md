@@ -1,6 +1,10 @@
 ## Hi 👋, I'm [Abhinav Suman](https://www.linkedin.com/in/abhinav-suman/) 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sumanabhi&label=Profile%20views&color=0e75b6&style=flat" alt="sumanabhi" /> </p>
 
+I'm working on Android Platform since 2015. I have worked on almost all type of domains and having experience to develop product from Scratch.
+
+##
+
 - 🧑‍💻 Working as **SDE-2 (Android)** at **[Koo App](https://www.kooapp.com/)**
 - 👯 I’m looking to collaborate on Android & Flutter Open Source Contribution
 - 🤔 I’m looking for help with [Github Actions](https://docs.github.com/en/actions)

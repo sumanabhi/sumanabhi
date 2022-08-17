@@ -26,7 +26,7 @@ I'm [Abhinav Suman](https://www.linkedin.com/in/abhinav-suman/), an **Android En
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumanabhi&theme=highcontrast)](https://git.io/streak-stats)
 
-One can connect with me
+<b>One can connect 📫 with me using below Options</b>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-suman/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:abhinav2010suman@gmail.com)

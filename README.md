@@ -1,7 +1,7 @@
 ## Hi Folks !! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> <img src="https://komarev.com/ghpvc/?username=sumanabhi&label=Profile%20views&color=0e75b6&style=flat" alt="sumanabhi" align/>
 <!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=sumanabhi&label=Profile%20views&color=0e75b6&style=flat" alt="sumanabhi" /> </p> -->
 
-### Thanks for being here 🙂
+### Thanks for being here. 🙂
 
 I'm [Abhinav Suman](https://www.linkedin.com/in/abhinav-suman/), an **Android Enthusiast 👨🏻‍💻** from **India**. I love to explore the things in my doamin and technologies who also willing to learn new technolgies stack. Currently I'm obsessed with Open Source Contribution.
 

@@ -11,7 +11,7 @@ I'm [Abhinav Suman](https://www.linkedin.com/in/abhinav-suman/), an **Android En
 - 👯 I’m looking to collaborate on Android & Flutter Open Source Contribution
 - 🤔 I’m looking for help with [Github Actions](https://docs.github.com/en/actions)
 - ⚒️ Trying out the [Android Jetpack Compose](https://developer.android.com/jetpack/androidx/releases/compose) & [DataStore](https://developer.android.com/topic/libraries/architecture/datastore).
-- ⚛️ Looking for tutorial of **Atomic Design Pattern**
+- ⚛️ Looking for tutorial of **GitHub Actions**
 - 📫 How to reach me: [Twitter - @sumanabhi_](https://twitter.com/sumanabhi_) **&amp;** [LinkedIn - sumanabhinav](https://www.linkedin.com/in/abhinav-suman/)😌
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: Apart from this, I spent some time on Photogrpahy, you can pay a visit [Instagram - @animus_lens](https://www.instagram.com/animus_lens/) 

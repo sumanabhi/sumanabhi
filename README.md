@@ -3,7 +3,7 @@
 
 ### Thanks for being here. 🙂
 
-I'm [Abhinav Suman](https://www.linkedin.com/in/abhinav-suman/), an **Android Enthusiast 👨🏻‍💻** from **Noida, India**. I love to explore the things in my domain and technologies who also willing to learn new technologies stack. Currently I'm obsessed with Open Source Contribution.
+I'm [Abhinav Suman](https://www.linkedin.com/in/abhinav-suman/), an **Android Enthusiast 👨🏻‍💻** from **Noida, India**. I love to explore the things in my domain and technologies who also willing to learn new technologies stack. Currently, I'm obsessed with Open Source Contribution.
 
 ## <b>About me :-</b> 
 

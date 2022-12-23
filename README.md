@@ -7,9 +7,9 @@ I'm [Abhinav Suman](https://www.linkedin.com/in/abhinav-suman/), an **Android En
 
 ## <b>About me :-</b> 
 
-- 🧑‍💻 Working as **<b>SDE-2 (Android)</b>** at **[Koo App](https://www.kooapp.com/)**
-- 👯 I’m looking to collaborate on Android & Flutter Open Source Contribution
-- 🤔 I’m looking for help with [Github Actions](https://docs.github.com/en/actions)
+- 🧑‍💻 Working as **<b>SDE-2 (Android)</b>** at **[Koo India](https://www.kooapp.com/)**
+- 👯 I’m looking to collaborate on Android & Compose Open Source Contribution.
+- 🤔 I’m exploring [Github Actions](https://docs.github.com/en/actions)
 - ⚒️ Trying out the [Android Jetpack Compose](https://developer.android.com/jetpack/androidx/releases/compose) & [DataStore](https://developer.android.com/topic/libraries/architecture/datastore).
 - ⚛️ Looking for tutorial of **GitHub Actions**
 - 📫 How to reach me: [Twitter - @sumanabhi_](https://twitter.com/sumanabhi_) **&amp;** [LinkedIn - sumanabhinav](https://www.linkedin.com/in/abhinav-suman/)😌

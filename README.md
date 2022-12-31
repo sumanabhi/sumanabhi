@@ -22,7 +22,8 @@ I'm [Abhinav Suman](https://www.linkedin.com/in/abhinav-suman/), an **Android En
 <code><img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code> <code><img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>   <code><img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> 
 <code><img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
-<code><img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/ae48d1ca3274c0c3a90f872e605eaef069a16771/topics/jetpack-compose/jetpack-compose.png"></code>  
+<code><img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/ae48d1ca3274c0c3a90f872e605eaef069a16771/topics/jetpack-compose/jetpack-compose.png"></code>
+<code><img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumanabhi&theme=highcontrast)](https://git.io/streak-stats) &nbsp;&nbsp; [![Github Stats](https://github-readme-stats.vercel.app/api?username=sumanabhi&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github-readme-stats.vercel.app/)
 

@@ -7,7 +7,7 @@ I'm [Abhinav Suman](https://www.linkedin.com/in/abhinav-suman/), an **Android En
 
 ## <b>About me :-</b> 
 
-- 🧑‍💻 Working as **<b>SDE-2 (Android)</b>** at **[Koo India](https://www.kooapp.com/)**
+- 🧑‍💻 Working as **Senior Android Developer**
 - 👯 I’m looking to collaborate on Android & Compose Open Source Contribution.
 - 🤔 I’m exploring [Github Actions](https://docs.github.com/en/actions)
 - ⚒️ Trying out the [Android Jetpack Compose](https://developer.android.com/jetpack/androidx/releases/compose) & [DataStore](https://developer.android.com/topic/libraries/architecture/datastore).

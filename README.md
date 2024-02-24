@@ -3,7 +3,7 @@
 
 ### Thanks for being here. 🙂
 
-I'm [Abhinav Suman](https://www.linkedin.com/in/abhinav-suman/), an **Android Enthusiast 👨🏻‍💻** from **Noida, India**. I love to explore the things in my domain and technologies who also willing to learn new technologies stack. Currently, I'm obsessed with Open Source Contribution.
+I'm [Abhinav Sumaan](https://www.linkedin.com/in/abhinav-suman/), an **Android Enthusiast 👨🏻‍💻** from **Noida, India**. I love to explore the things in my domain and technologies who also willing to learn new technologies stack. Currently, I'm obsessed with Open Source Contribution.
 
 ## <b>About me :-</b> 
 
@@ -25,7 +25,7 @@ I'm [Abhinav Suman](https://www.linkedin.com/in/abhinav-suman/), an **Android En
 <code><img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/ae48d1ca3274c0c3a90f872e605eaef069a16771/topics/jetpack-compose/jetpack-compose.png"></code>
 <code><img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumanabhi&theme=highcontrast)](https://git.io/streak-stats) &nbsp;&nbsp; [![Github Stats](https://github-readme-stats.vercel.app/api?username=sumanabhi&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github-readme-stats.vercel.app/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumanabhi&theme=highcontrast)](https://git.io/streak-stats) &nbsp;&nbsp; [![Github Stats](https://github-readme-stats.vercel.app/api?username=sumanabhi&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&show_icons=true&theme=vision-friendly-dark)](https://github-readme-stats.vercel.app/)
 
 #### **HactoberFest 2022 Badge Board by Holopin**  
 [![@sumanabhi's Holopin board](https://holopin.io/api/user/board?user=sumanabhi)](https://holopin.io/@sumanabhi)

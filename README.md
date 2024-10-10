@@ -27,8 +27,8 @@ I'm [Abhinav Sumaan](https://www.linkedin.com/in/abhinav-suman/), an **Android E
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumanabhi&theme=highcontrast)](https://git.io/streak-stats) &nbsp;&nbsp; [![Github Stats](https://github-readme-stats.vercel.app/api?username=sumanabhi&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&show_icons=true&theme=vision-friendly-dark)](https://github-readme-stats.vercel.app/)
 
-#### **HactoberFest 2022 Badge Board by Holopin**  
-[![@sumanabhi's Holopin board](https://holopin.io/api/user/board?user=sumanabhi)](https://holopin.io/@sumanabhi)
+#### **HactoberFest 2022,23,24 Badge Board by Holopin**  
+[![@sumanabhi's Holopin badges](https://holopin.me/sumanabhi)](https://holopin.io/@sumanabhi)
 
 <b>One can connect 📫 with me using below Options</b>
 
